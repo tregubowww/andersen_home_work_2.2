@@ -40,9 +40,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:autoLink="web"
-                android:lineSpacingExtra="@dimen/line_spacing"
+                android:lineSpacingExtra="@dimen/regular_padding"
                 android:padding="@dimen/regular_padding"
-                android:text="@string/article_text" />
+                android:text="@string/article_text"
+                />
         </LinearLayout>
 
     </ScrollView>
